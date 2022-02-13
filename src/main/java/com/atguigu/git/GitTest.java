@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("hello git4");
         System.out.println("pull test");
+        System.out.println("项目更新");
     }
 
 }
